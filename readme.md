@@ -1,5 +1,6 @@
 
 
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -24,11 +25,20 @@ O site é simples de recursos, pois foi o meu primeiro aplicativo em laravel, ut
  - [x] Sistema MVC
  - [x] Disponibilizar publicamente
 
-![Pagina de Login](https://github.com/PotatoMexicano/Web_Pineapple/blob/master/samples/login_screen.PNG)
+> *Pagina de Login*
+> 
+> ![Pagina de
+> Login](https://github.com/PotatoMexicano/Web_Pineapple/blob/master/samples/login_screen.PNG)
+> 
 
-![Pagina de listagem](https://imgur.com/X4Lrd52)
+> Pagina de Listagem 
+> ![Pagina de
+> listagem](https://github.com/PotatoMexicano/Web_Pineapple/blob/master/samples/list_cars.PNG)
+> 
 
-![Pagina de Visualização](https://imgur.com/ZjKvDU6)
+> Pagina de Visualização 
+> ![Pagina de
+> Visualização](https://github.com/PotatoMexicano/Web_Pineapple/blob/master/samples/show_cars.PNG)
 
 
 Para acessar o preview do site: <a href="http://oihi.ddns.net:8181">**Pineapple**</a>
