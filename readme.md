@@ -12,16 +12,18 @@
 
 ## About "Pineapple"
 
-Pineapple é o nome de uma aplicação Laravel quem tem cujo objetivo ser um estoque de carros destinado a lojas, como se fosse um catalogo virtual.
+Pineapple é o nome
+
+
+ de uma aplicação Laravel quem tem cujo objetivo ser um estoque de carros destinado a lojas, como se fosse um catalogo virtual.
 O site é simples de recursos, pois foi o meu primeiro aplicativo em laravel, utilizei para aprender sobre a linguagem.
 
  - [x] Visualizar as imagens dos veículos
- - [x] Sistema de login
+ - [ ] Sistema de login
  - [x] Adicionar/Apagar/Editar veiculo
  - [x] Sistema API interna para usuarios ADM
  - [x] Sistema MVC
  - [x] Disponibilizar publicamente
- - [ ] Painel de Usuario
 
 > *Pagina de Login*
 > 
@@ -37,7 +39,10 @@ O site é simples de recursos, pois foi o meu primeiro aplicativo em laravel, ut
 > Pagina de Visualização 
 > ![Pagina de
 > Visualização](https://github.com/PotatoMexicano/Web_Pineapple/blob/master/samples/show_cars.PNG)
+> 
 
+>  API interna
+>     `[{"id":1,"license":"EUA-0101","brand":"BMW","model":"M21","type":"sedan","tags":"NEW","year":2020,"color":"white","doors":2,"image":"BMW-EUA-0101.jpeg","id_user":1}]`
 
 Para acessar o preview do site: <a href="http://oihi.ddns.net:8181">**Pineapple**</a>
 
