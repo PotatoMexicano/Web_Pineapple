@@ -24,7 +24,7 @@ O site é simples de recursos, pois foi o meu primeiro aplicativo em laravel, ut
  - [x] Sistema MVC
  - [x] Disponibilizar publicamente
 
-![Pagina de Login](https://imgur.com/CdMquNa)
+![Pagina de Login](https://github.com/PotatoMexicano/Web_Pineapple/blob/master/samples/login_screen.PNG)
 
 ![Pagina de listagem](https://imgur.com/X4Lrd52)
 
