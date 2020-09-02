@@ -12,10 +12,7 @@
 
 ## About "Pineapple"
 
-Pineapple é o nome
-
-
- de uma aplicação Laravel quem tem cujo objetivo ser um estoque de carros destinado a lojas, como se fosse um catalogo virtual.
+Pineapple é o nome de uma aplicação Laravel quem tem cujo objetivo ser um estoque de carros destinado a lojas, como se fosse um catalogo virtual.
 O site é simples de recursos, pois foi o meu primeiro aplicativo em laravel, utilizei para aprender sobre a linguagem.
 
  - [x] Visualizar as imagens dos veículos
