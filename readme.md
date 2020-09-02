@@ -39,7 +39,7 @@ O site é simples de recursos, pois foi o meu primeiro aplicativo em laravel, ut
 > 
 
 >  API interna
->     `[{"id":1,"license":"EUA-0101","brand":"BMW","model":"M21","type":"sedan","tags":"NEW","year":2020,"color":"white","doors":2,"image":"BMW-EUA-0101.jpeg","id_user":1}]`
+>     `[{"id":3,"license":"EJA-1021","brand":"Mercedes Benz","model":"S63 AMG","type":"cup\u00ea","tags":"new","year":2020,"color":"black","doors":4,"image":"Mercedes-Benz-EJA-1021.webp","id_user":3}]`
 
 Para acessar o preview do site: <a href="http://oihi.ddns.net:8181">**Pineapple**</a>
 
