@@ -24,7 +24,7 @@ O site é simples de recursos, pois foi o meu primeiro aplicativo em laravel, ut
  - [x] Sistema API interna para usuarios ADM
  - [x] Sistema MVC
  - [x] Disponibilizar publicamente
- - [] Painel de usuario
+ - [ ] Painel de Usuario
 
 > *Pagina de Login*
 > 
