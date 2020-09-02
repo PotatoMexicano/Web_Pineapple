@@ -16,11 +16,12 @@ Pineapple é o nome de uma aplicação Laravel quem tem cujo objetivo ser um est
 O site é simples de recursos, pois foi o meu primeiro aplicativo em laravel, utilizei para aprender sobre a linguagem.
 
  - [x] Visualizar as imagens dos veículos
- - [ ] Sistema de login
+ - [x] Sistema de login
  - [x] Adicionar/Apagar/Editar veiculo
  - [x] Sistema API interna para usuarios ADM
  - [x] Sistema MVC
  - [x] Disponibilizar publicamente
+ - [ ] Painel de Usuario
 
 > *Pagina de Login*
 > 
