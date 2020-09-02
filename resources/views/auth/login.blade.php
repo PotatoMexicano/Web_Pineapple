@@ -47,7 +47,7 @@
                                 </div>
                             </div>
                         </div>
-
+                        
                         <div class="form-group">
                             <div class="col-md-8 col-md-offset-4">
                                 <button type="submit" class="btn btn-primary">
@@ -56,9 +56,10 @@
 
                                 <a class="btn btn-link" href="{{ route('password.request') }}">
                                     Forgot Your Password?
-                                </a>
-                            </div>
+                                </a>                                
+                            </div>                            
                         </div>
+                        <p class="alert alert-info text-center">Caso você não seja redirecionado, pressione F5</p>
                     </form>
                 </div>
             </div>
