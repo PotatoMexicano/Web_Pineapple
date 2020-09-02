@@ -1,4 +1,5 @@
 
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -22,6 +23,12 @@ O site é simples de recursos, pois foi o meu primeiro aplicativo em laravel, ut
  - [x] Sistema API interna para usuarios ADM
  - [x] Sistema MVC
  - [x] Disponibilizar publicamente
+
+![Pagina de Login](https://imgur.com/CdMquNa)
+
+![Pagina de listagem](https://imgur.com/X4Lrd52)
+
+![Pagina de Visualização](https://imgur.com/ZjKvDU6)
 
 
 Para acessar o preview do site: <a href="http://oihi.ddns.net:8181">**Pineapple**</a>
